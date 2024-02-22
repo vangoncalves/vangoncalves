@@ -11,7 +11,7 @@
   <img align="center" alt="Van-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Van-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<img align="right" alt="Rafa-yoda" src="https://discord.com/channels/@me/1061059883555901461/1210351099664531516">
 
 ###
 

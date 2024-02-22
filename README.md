@@ -1,6 +1,4 @@
 ### Olá! Eu sou a Vanessa Gonçalves
-- 👩🏻‍💻 Graduanda em Sistemas para Internet - IFRN Canguaretama
-- ela/dela
 <div>
   <a href="https://github/vangoncalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vangoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +11,7 @@
   <img align="center" alt="Van-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Van-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
+<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 
 ###
 

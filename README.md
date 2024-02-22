@@ -1,8 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou a Vanessa Gonçalves
+- 👩🏻‍💻 Graduanda em Sistemas para Internet - IFRN Canguaretama
+- ela/dela
 <div>
-  <a href="https://github.com/vangoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vangoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangoncalves&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://beacons.ai/vangoncalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vangoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangoncalves&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>

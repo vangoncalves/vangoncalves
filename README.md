@@ -10,7 +10,7 @@
   <img align="center" alt="Van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Van-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Van-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Van" heigth="100" width="100" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65ea4005&is=65d7cb05&hm=4074347590294229e0d1bea5d988ede4cef665f759d38d85c4407ffddacb7c57&">
+  <img align="right" alt="Van" heigth="100" width="140" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65ea4005&is=65d7cb05&hm=4074347590294229e0d1bea5d988ede4cef665f759d38d85c4407ffddacb7c57&">
 </div>
 
 ###

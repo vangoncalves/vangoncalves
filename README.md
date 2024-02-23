@@ -4,6 +4,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vangoncalves&bg_color=0d1117&color=DA70D6&line=DA70D6&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"src="https://github-readme-streak-stats.herokuapp.com?user=vangoncalves&theme=nightowl&mode=weekly" />
+ </div>
+
+ ##
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vangoncalves&theme=nightowl&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -12,7 +18,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vangoncalves&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=00FFFF&bg_color=0d1117" alt="Vanessa Gonçalves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangoncalves&layout=compact&hide_border=true&title_color=DA70D6&text_color=00FFFF&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> 
 <a href="https://instagram.com/vangonssi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -44,7 +49,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vangoncalves}/count.svg" /></p> 
-<br>
 </div>
 
 

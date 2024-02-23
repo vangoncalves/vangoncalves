@@ -4,10 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vangoncalves&bg_color=0d1117&color=DA70D6&line=DA70D6&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"src="https://github-readme-streak-stats.herokuapp.com?user=vangoncalves&theme=nightowl&mode=weekly" />
- </div>
-
  ##
  
 <p align="center">

@@ -33,7 +33,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
- <img align="right" alt="Van" heigth="100" width="140" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65ea4005&is=65d7cb05&hm=4074347590294229e0d1bea5d988ede4cef665f759d38d85c4407ffddacb7c57&">
+ <img align="right" alt="Van" heigth="100" width="140" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65fcb505&is=65ea4005&hm=751f33e70583e77080ef7cdf732c38088f251c9d0306f5710e101863a65a92da&">
 
  
 ## Tools:

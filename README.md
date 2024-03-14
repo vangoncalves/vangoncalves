@@ -25,23 +25,27 @@
 <a href="https://www.linkedin.com/in/vangoncalvesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+##
  
- ## Main skills:
+ ### Main skills:
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<img align="right" alt="Van" heigth="100" width="140" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65fcb505&is=65ea4005&hm=751f33e70583e77080ef7cdf732c38088f251c9d0306f5710e101863a65a92da&">
 
+<img align="right" alt="Van" heigth="200" width="200" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65fcb505&is=65ea4005&hm=751f33e70583e77080ef7cdf732c38088f251c9d0306f5710e101863a65a92da&">
+
+##
  
-## Tools:
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
+##
 
-## Studying in this moment:
+### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;

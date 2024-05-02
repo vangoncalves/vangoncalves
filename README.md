@@ -33,10 +33,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<img align="right" alt="Van" heigth="200" width="200" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=65fcb505&is=65ea4005&hm=751f33e70583e77080ef7cdf732c38088f251c9d0306f5710e101863a65a92da&">
+
+<img align="right" alt="Van" heigth="200" width="200" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=66341405&is=6632c285&hm=a57ddafcbdbb0a8ae3b05291b13396a699bf9a6521b5756bc04d8eed8be0e728&"> 
 
 ##
- 
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
